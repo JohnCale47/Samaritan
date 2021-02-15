@@ -44,7 +44,7 @@ var speechModule = (function () {
 		'what are you': _writeWrapper('i am samaritan !'),
 		'turn off': _writeWrapper('shutdown initiated'),
 		'restart': _writeWrapper('initiating reboot sequence'),
-		'who created you': _writeWrapper("it's irrelevant"),
+		'who created you': _writeWrapper("Johny_Ser"),
 		'who won': _writeWrapper('team machine'),
 		'find (me) *name': _flickrSearch,
 		'search (for) *name': _flickrSearch,
